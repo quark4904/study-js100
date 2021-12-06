@@ -6,7 +6,7 @@
 // 입력 : 10 2
 // 출력 : 5 0
 
-// Method 1
+// Method
 const result = (e) => {
   let divide = e.split(" ");
   //   console.log(divide)
